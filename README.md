@@ -1,3 +1,3 @@
-## Projeto CRUD
+# Projeto CRUD
 
-# O projeto serve para registrar dispositivos, incluindo informações como modelo, marca e código.
+## O projeto serve para registrar dispositivos, incluindo informações como modelo, marca e código.
